@@ -1,0 +1,129 @@
+body {
+    color: #f4f3c6;
+    background-color: #291a3b;
+}
+
+a {
+	color: #f4f3c6;
+}
+
+a:hover {
+	color: #f4f3c6;
+}
+
+.navbar {
+    background-color: #291a3b;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f4f3c6;
+}
+
+.top-menu li a::after {
+    color: #f4f3c6;
+}
+
+.modal-content {
+	background-color: #291a3b;
+}
+
+
+
+
+.product-card {
+    background-color: #291a3b;
+    box-shadow: 0 2px 5px 0 #f4f3c6;
+}
+
+.product-card:hover {
+    box-shadow: 0 14px 30px -15px #f4f3c6;
+}
+
+
+.product-details p {
+    color: #f4f3c6;
+}
+
+.product-bottom-details {
+    border-top: 1px solid #f4f3c6;
+}
+
+.product-price {
+    color: #f4f3c6;
+}
+
+.product-price small {
+    color: #f4f3c6;
+}
+
+
+
+.footer {
+    background-color: #291a3b;
+}
+
+.footer h4 {
+    color: #f4f3c6;
+    border-bottom: 1px solid #f4f3c6;
+}
+
+
+.footer a:hover {
+    color: #f4f3c6;
+}
+
+.footer a,
+.footer li {
+    color: #f4f3c6;
+}
+}
+element.style {
+}
+fieldset {
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 2px;
+    border-style: groove;
+    border-color: #f4f3c6;
+    border-image: initial;
+}
+body {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    min-width: 320px;
+}
+body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+html {
+    font-size: 16px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
